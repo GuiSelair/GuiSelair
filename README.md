@@ -1,5 +1,5 @@
 <p>
-   <img src="GuiSelair/.github/bgGithub.png" alt="BGGit" border="0" width="100%">
+   <img src="https://github.com/GuiSelair/GuiSelair/.github/bgGithub.png" alt="BGGit" border="0" width="100%">
 </p>
 
 <p align="center">
