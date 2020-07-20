@@ -1,16 +1,15 @@
-### Hi there 👋
+<p>
+   <img src="./.github/bgGithub.png" alt="BGGit" border="0" width="100%">
+</p>
 
-<!--
-**GuiSelair/GuiSelair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilherme-selair/">Linkedin</a> •
+  <a href="https://medium.com/@guiselair">Medium</a> •
+</p>
 
-Here are some ideas to get you started:
+## Hi! I'am Guilherme! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Lunix Tecnologia
+- 📌 Living in Santa Maria, Rio Grande do Sul. Brasil.  
+- 🌱 I’m currently learning NodeJS, ReactJS, React Native and Typescript
+- 📫 How to reach me: guilherme.lima1997@hotmail.com
