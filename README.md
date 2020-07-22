@@ -12,6 +12,7 @@
 ## Hi! I'm Guilherme! 👋
 
 - 🔭 I’m currently working on Lunix Tecnologia
+- 🥰 Currently acting as Front-end Developer
 - 📌 Living in Santa Maria, Rio Grande do Sul, Brasil.  
 - 🌱 I’m currently learning NodeJS, ReactJS, React Native and Typescript
 - 💜 Always Learning
