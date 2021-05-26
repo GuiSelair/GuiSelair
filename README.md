@@ -17,5 +17,5 @@
 - 🌱 I’m currently learning NodeJS, ReactJS, React Native and Typescript
 - 💜 Always Learning
 - 💬 Ask me about: ReactJS, Python and React Native
-- 📝 I regulary write articles on [Medium](https://medium.com/@guiselair)
-- 📫 How to reach me: guilherme.lima1997@hotmail.com
+- 📝 I regulary write articles on [DEV.to](https://dev.to/guiselair)
+- 📫 How to reach me: guilherme.selair@gmail.com
