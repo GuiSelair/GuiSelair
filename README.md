@@ -1,5 +1,5 @@
 <p>
-   <img src="https://raw.githubusercontent.com/GuiSelair/GuiSelair/master/.github/bgGithub.png" alt="BGGit" border="0" width="100%">
+   <img src="https://raw.githubusercontent.com/GuiSelair/GuiSelair/master/.github/CapaGithub.jpg" alt="BGGit" border="0" width="100%">
 </p>
 
 <p align="center">
@@ -11,7 +11,6 @@
 
 ## Hi! I'm Guilherme! 👋
 
-- 🔭 I’m currently working on Lunix Tecnologia
 - 🥰 Currently acting as Front-end Developer
 - 📌 Living in Santa Maria, Rio Grande do Sul, Brasil.  
 - 🌱 I’m currently learning NodeJS, ReactJS, React Native and Typescript
