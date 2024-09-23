@@ -1,6 +1,3 @@
-<p>
-   <img src="https://raw.githubusercontent.com/GuiSelair/GuiSelair/master/CapaGithub2.png" alt="BGGit" border="0" width="100%">
-</p>
 
 <h4 align="center">Links importantes</h4>
 <p align="center">
