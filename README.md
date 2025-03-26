@@ -1,5 +1,3 @@
-
-<h4 align="center">Links importantes</h4>
 <p align="center">
   <a href="https://www.guilhermeselair.dev" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-fa6e40?style=for-the-badge"></a>
   <a href="mailto:contato@guilhermeselair.dev"><img src="https://img.shields.io/badge/-envie um email-white?style=for-the-badge"></a>
