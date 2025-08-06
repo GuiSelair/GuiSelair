@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="linkedin-cover" src="https://github.com/user-attachments/assets/66b4aeb0-bc8f-4419-9a90-f4b533fa9735" />
+
 <p align="center">
   <a href="https://www.guilhermeselair.dev" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-fa6e40?style=for-the-badge"></a>
   <a href="mailto:contato@guilhermeselair.dev"><img src="https://img.shields.io/badge/-envie um email-white?style=for-the-badge"></a>
